@@ -8,13 +8,13 @@ Stripe api is used for payment.
 
 Overall, the Food-Delivery Project is a powerful and feature-rich solution for anyone looking to start an online food ordering business or add food ordering functionality to an existing website.
 
-HOW TO USE
- Clone the repo
- npm installs
+HOW TO USE :
+ Clone the repo,
+ npm installs,
  run the command - npm run dev
 
  .env file should include :
-   mogodb uri
-   name of the database
-   jwt secret key
-   stripe secret key
+   mogodb uri,
+   name of the database,
+   jwt secret key,
+   stripe secret key,
